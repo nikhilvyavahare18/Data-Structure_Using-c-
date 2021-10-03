@@ -1,0 +1,7 @@
+﻿  binary.c
+D:\Data_Structure_Using_c\Searching_Algorithums\binary_search\binary_search\binary.c(16,15): warning C4013: 'binary_search' undefined; assuming extern returning int
+D:\Data_Structure_Using_c\Searching_Algorithums\binary_search\binary_search\binary.c(5,21): warning C4101: 'low': unreferenced local variable
+D:\Data_Structure_Using_c\Searching_Algorithums\binary_search\binary_search\binary.c(5,26): warning C4101: 'high': unreferenced local variable
+D:\Data_Structure_Using_c\Searching_Algorithums\binary_search\binary_search\binary.c(28,4): warning C4033: 'binary_search' must return a value
+D:\Data_Structure_Using_c\Searching_Algorithums\binary_search\binary_search\binary.c(43): warning C4716: 'binary_search': must return a value
+  binary_search.vcxproj -> D:\Data_Structure_Using_c\Searching_Algorithums\binary_search\binary_search\Debug\binary_search.exe
