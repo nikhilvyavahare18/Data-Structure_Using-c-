@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-#define max 10
+#define max 100
 struct stack
 {
     int a[max];
