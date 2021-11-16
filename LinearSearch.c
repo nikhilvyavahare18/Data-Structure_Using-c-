@@ -20,13 +20,13 @@ void main()
 		if (search == a[i])
 		{
 			flag = 1;
-			printf("No is Found\n");
+			printf("Number is Found\n");
 			break;
 		}
 	}
 		if (flag == 0)
 		{
-			printf("No is not Found\n");
+			printf("Number is not Found\n");
 		}
 
 	
